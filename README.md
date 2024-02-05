@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @IsukaW</h1>
 <h3 align="center">A passionate frontend and Backend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=IuskaW&label=Profile%20views&color=0e75b6&style=flat" alt="IuskaW" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IuskaW&label=Profile%20views&color=0e75b6&style=flat" alt="isukaw" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IuskaW" alt="IuskaW" /></a> </p>
 
