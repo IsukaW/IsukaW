@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isuka</h1>
 <h3 align="center">A passionate frontend and Backend developer from Sri Lanka</h3>
 
-<iframe src="https://github.com/sponsors/IsukaW/card" title="Sponsor IsukaW" height="225" width="600" style="border: 0;"></iframe>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isukaw&label=Profile%20views&color=0e75b6&style=flat" alt="isukaw" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isukaw" alt="isukaw" /></a> </p>
