@@ -29,5 +29,5 @@
 
 <img src="https://github-readme-stats-theta-ten-77.vercel.app/api?username=isukaw&show_icons=true&theme=dark&hide_border=true" alt="Your GitHub Stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isukaw&" alt="isukaw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsukaW&" alt="IsukaW" /></p>
 
